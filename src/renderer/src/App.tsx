@@ -1,4 +1,5 @@
 import NavigationDrawer from "./components/NavigationDrawer";
+
 function App(): JSX.Element {
     return (
         <>
