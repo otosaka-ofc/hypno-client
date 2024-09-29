@@ -8,3 +8,6 @@
 .no-drag {
     -webkit-app-region: no-drag;
 }
+.simplebar-scrollbar{
+    background-color: --color-primary
+  }
